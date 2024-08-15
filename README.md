@@ -6,3 +6,7 @@
 amen
 cambiecito desde la nube, amazing spiderman
 >>>>>>> refs/remotes/origin/main
+añadi todo
+añadi todo
+añadi todo
+

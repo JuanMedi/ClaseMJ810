@@ -1,2 +1,3 @@
 # ClaseMJ810
-borre todo
+añadi unas vainas bien exoticas
+

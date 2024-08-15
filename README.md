@@ -1,3 +1,2 @@
 # ClaseMJ810
-#uncambiecito
-amen
+#uncambiecito, borre unas cositas

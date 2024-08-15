@@ -1,6 +1,7 @@
 # ClaseMJ810
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #uncambiecito, borre unas cositas
 =======
 #uncambiecito
@@ -16,3 +17,7 @@ borre todo
 >>>>>>> c3ac8b4e27646758ea8f36582e42dcd53e6ebbc5
 
 camino al cielo
+=======
+añadi unas vainas bien exoticas
+
+>>>>>>> refs/remotes/origin/main
